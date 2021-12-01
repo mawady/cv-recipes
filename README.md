@@ -1,4 +1,4 @@
-# Colab recipes for computer vision - Educational use
+# Colab recipes for computer vision - educational and research use
 
 ---
 

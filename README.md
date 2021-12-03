@@ -10,4 +10,4 @@
 
 ## Notes
 - For single-label classification, mirco F1 and accruacy are equal. For multi-label, they are not.
-- For imbalance dataset, use weighted macro F1. 
+- For imbalance dataset, use weighted F1 instead of macro F1. 

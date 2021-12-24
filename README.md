@@ -2,9 +2,9 @@
 
 ---
 
-## Filenaming: Task-Type-Model-Dataset-Framework
+## Filenaming: Task-Stage-Model-Dataset-Framework
 - Task: ObjectClassification, ObjectDetection, etc...
-- Type: Train, FineTune, Eval, Infer
+- Stage: Train, FineTune, Eval, Infer
 - Model: ResNet, YoloV3, etc...
 - Dataset: ImageNet, COCO, etc...
 - Library: PyTorch, Tensorflow, Keras

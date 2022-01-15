@@ -25,6 +25,6 @@
 - For single-label classification, mirco F1 and accruacy are equal. For multi-label, they are not.
 - For imbalance dataset, use weighted F1 instead of macro F1.
 - Training hacks/Fastai: progressive resizing, gradual unfreezing
-- Baseline - Object Classification [single/multi class]: ResNet, ViT, EfficientNet
+- Baseline - Object Classification [single/multi class, single/multi label]: ResNet, ViT, EfficientNet
 - Baseline - Object Detection [single/multi class, single/multi label]: YoloV3-5, RetinaNet, FasterRCNN
 - Baseline - Object Segementation [semantic / instance]: MaskRCNN, U-NET, FCN, DeepLabV3

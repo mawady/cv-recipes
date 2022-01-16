@@ -28,3 +28,4 @@
 - Baseline - Object Classification [single/multi class, single/multi label]: ResNet, ViT, EfficientNet
 - Baseline - Object Detection [single/multi class, single/multi label]: YoloV3-5, RetinaNet, FasterRCNN
 - Baseline - Object Segementation [semantic / instance]: MaskRCNN, U-NET, FCN, DeepLabV3
+- MultilabelStratifiedKFold: [https://github.com/trent-b/iterative-stratification](https://github.com/trent-b/iterative-stratification)

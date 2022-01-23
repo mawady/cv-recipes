@@ -14,7 +14,7 @@
 ## Basic level
 ### Object classification
 - ObjectClassificationBinary-FineTune-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pRrX-2D5QOoLG4uzC58YFMm8wtCwmaJk?usp=sharing)
-- ObjectClassificationBinary-Infer-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cobRaHYrubud9-8BgjEnce-8957d5_5y?usp=sharing) [![Open In Colab](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/spaces/mawady/demo-catsvsdogs-gradio)
+- ObjectClassificationBinary-Infer-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cobRaHYrubud9-8BgjEnce-8957d5_5y?usp=sharing) [[Open In HuggingFace - Spaces](https://huggingface.co/spaces/mawady/demo-catsvsdogs-gradio)]
 ### Object detection
 - ObjectDetection-Infer-YoloV3-COCO-OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PKRX7TYwZ80YcvGYB-BjzA0QaqScwZJ1?usp=sharing)
 ### Object segmentation

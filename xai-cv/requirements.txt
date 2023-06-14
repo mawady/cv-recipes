@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision==0.15.2
+Pillow==9.5.0
+opencv-python==4.7.0.72
+numpy==1.24.3
+gradio==3.34.0
+grad-cam==1.4.6

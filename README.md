@@ -13,10 +13,11 @@
 
 ## Basic level
 ### Object classification
-- ObjectClassificationBinary-FineTune-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pRrX-2D5QOoLG4uzC58YFMm8wtCwmaJk?usp=sharing)
-- ObjectClassificationBinary-Infer-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cobRaHYrubud9-8BgjEnce-8957d5_5y?usp=sharing) [[Open In HuggingFace - Spaces](https://huggingface.co/spaces/mawady/demo-catsvsdogs-gradio)]
+- ObjectClassificationBinary-FineTune-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/colab-recipes-cv/blob/main/ObjectClassificationBinary_FineTune_ResNet_CatsVsDogs_Pytorch.ipynb)
+- ObjectClassificationBinary-Infer-ResNet-CatsVsDogs-Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/colab-recipes-cv/blob/main/ObjectClassificationBinary_Infer_ResNet_CatsVsDogs_Pytorch.ipynb) [![Open In HuggingFace - Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/mawady/demo-catsvsdogs-gradio)
+- ObjectClassificationMultiClass_FineTune_ResNet_MNIST_Pytorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/cv-recipes/blob/main/ObjectClassificationMultiClass_FineTune_ResNet_MNIST_Pytorch.ipynb)
 ### Object detection
-- ObjectDetection-Infer-YoloV3-COCO-OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PKRX7TYwZ80YcvGYB-BjzA0QaqScwZJ1?usp=sharing)
+- ObjectDetection-Infer-YoloV3-COCO-OpenCV [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/colab-recipes-cv/blob/main/ObjectDetection_Infer_YoloV3_COCO_OpenCV.ipynb)
 ### Object segmentation
 - 
 ---

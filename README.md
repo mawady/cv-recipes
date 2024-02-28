@@ -21,6 +21,9 @@
 ### Object segmentation
 - ObjectSegmentationPanoptic_Infer_DETR_COCO_PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/cv-recipes/blob/main/ObjectSegmentationPanoptic_Infer_DETR_COCO_PyTorch.ipynb)
 - ObjectSegmentationInstance_Infer_MaskRCNN_COCO_PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/cv-recipes/blob/main/ObjectSegmentationInstance_Infer_MaskRCNN_COCO_PyTorch.ipynb)
+- ObjectSegmentationPanopticAndSemantic_Infer_Mask2Former_Cityscapes_PyTorch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mawady/cv-recipes/blob/main/ObjectSegmentationPanopticAndSemantic_Infer_Mask2Former_Cityscapes_PyTorch.ipynb)
+
+
 ---
 
 ## Notes
